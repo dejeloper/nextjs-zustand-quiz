@@ -6,7 +6,6 @@ import { Footer } from "./Footer";
 
 const getBackgroundColor = (info: Question, index: number) => {
   const { userSelectedAnswer, correctAnswer } = info;
-  console.log(userSelectedAnswer, correctAnswer, index);
 
   if (userSelectedAnswer === null || userSelectedAnswer === undefined)
     return "border-gray-600 hover:bg-gray-900 hover:border-gray-700";
