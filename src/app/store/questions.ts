@@ -17,6 +17,40 @@ interface State {
   win: () => void;
 }
 
+const confettiConfig = {
+  spread: 360,
+  ticks: 50,
+  gravity: 0,
+  decay: 0.94,
+  startVelocity: 30,
+  shapes: ["star"],
+  colors: ["FFE400", "FFBD00", "E89400", "FFCA6C", "FDFFBB"],
+};
+
+const shootConfetti = () => {
+  confetti({
+    ...confettiConfig,
+    particleCount: 40,
+    scalar: 1.2,
+    shapes: ["star"],
+  });
+  confetti({
+    ...confettiConfig,
+    particleCount: 10,
+    scalar: 0.75,
+    shapes: ["circle"],
+  });
+};
+
+const mutipleShootConfetti = async () => {
+  setTimeout(shootConfetti, 0);
+  setTimeout(shootConfetti, 100);
+  setTimeout(shootConfetti, 200);
+  setTimeout(shootConfetti, 300);
+  setTimeout(shootConfetti, 400);
+  setTimeout(shootConfetti, 500);
+};
+
 export const useQuestionsStore = create<State>()(
   devtools(
     persist(
@@ -89,6 +123,7 @@ export const useQuestionsStore = create<State>()(
             const minCorrectAnswers = questions.length / 2 + 1;
             const winner = correctAnswers.length >= minCorrectAnswers;
             const finished = true;
+            mutipleShootConfetti();
 
             set({ winner, finished }, false, "Winner");
           },
