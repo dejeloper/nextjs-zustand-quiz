@@ -2,6 +2,11 @@
 
 Es una aplicación que se hizo para practicar Next.js y Zustand
 
+## Live
+
+Ingresa a la aplicación [aquí](https://nextjs-zustand-quiz.vercel.app/)
+La aplicación se desplegó en [Vercel](https://vercel.com/)
+
 ## Instalación
 
 Recomendación, usar **npm** para descargar dependencias.
