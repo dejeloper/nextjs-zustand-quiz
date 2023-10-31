@@ -123,7 +123,7 @@ export const useQuestionsStore = create<State>()(
             const minCorrectAnswers = questions.length / 2 + 1;
             const winner = correctAnswers.length >= minCorrectAnswers;
             const finished = true;
-            mutipleShootConfetti();
+            if (winner) mutipleShootConfetti();
 
             set({ winner, finished }, false, "Winner");
           },
