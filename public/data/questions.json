@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "question": "¿Quién ganó la Copa del Mundo de 2014?",
+    "answers": [
+      "Alemania",
+      "Argentina",
+      "Francia",
+      "Brasil"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 2,
+    "question": "¿Cuál es el equipo con más títulos de la Premier League?",
+    "answers": [
+      "Liverpool",
+      "Manchester United",
+      "Manchester City",
+      "Chelsea"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 3,
+    "question": "¿Quién es el máximo goleador de la historia de la Copa del Mundo?",
+    "answers": [
+      "Diego Maradona",
+      "Pele",
+      "Miroslav Klose",
+      "Cristiano Ronaldo"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 4,
+    "question": "¿Cuál es el estadio de fútbol más grande del mundo?",
+    "answers": [
+      "Camp Nou",
+      "Azteca",
+      "Wembley",
+      "Maracaná"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 5,
+    "question": "¿En qué país se celebró la Copa Mundial de la FIFA en 2018?",
+    "answers": [
+      "Francia",
+      "Brasil",
+      "Rusia",
+      "Alemania"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 6,
+    "question": "¿Quién es conocido como 'El Pelusa'?",
+    "answers": [
+      "Cristiano Ronaldo",
+      "Pele",
+      "Lionel Messi",
+      "Diego Maradona"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 7,
+    "question": "¿Cuál es el equipo más antiguo de la Serie A italiana?",
+    "answers": [
+      "AC Milan",
+      "Inter de Milán",
+      "Juventus",
+      "Genoa CFC"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 8,
+    "question": "¿En qué año se fundó la FIFA?",
+    "answers": [
+      "1970",
+      "1950",
+      "1930",
+      "1904"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 9,
+    "question": "¿Quién es el máximo goleador de la historia de la Copa Libertadores?",
+    "answers": [
+      "Carlos Tevez",
+      "Ariel Ortega",
+      "Daniel Passarella",
+      "Alfredo Di Stéfano"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 10,
+    "question": "¿Qué selección ganó la Eurocopa 2020?",
+    "answers": [
+      "Inglaterra",
+      "Alemania",
+      "España",
+      "Italia"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 11,
+    "question": "¿Cuál es el club más exitoso de la Liga de Campeones de África?",
+    "answers": [
+      "Wydad Casablanca",
+      "Raja Casablanca",
+      "Espérance",
+      "Al Ahly"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 12,
+    "question": "¿Cuántos jugadores hay en un equipo de fútbol en el campo durante un partido?",
+    "answers": [
+      "12",
+      "10",
+      "11",
+      "9"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 13,
+    "question": "¿Quién es el máximo goleador de la historia de la Copa América?",
+    "answers": [
+      "Pelé",
+      "Lionel Messi",
+      "Eduardo Vargas",
+      "Neymar"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 14,
+    "question": "¿En qué país se celebra el Clásico Español?",
+    "answers": [
+      "México",
+      "Brasil",
+      "España",
+      "Argentina"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 15,
+    "question": "¿Cuál es el equipo de fútbol más antiguo del mundo?",
+    "answers": [
+      "Real Madrid",
+      "Aston Villa",
+      "Notts County",
+      "Sheffield FC"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 16,
+    "question": "¿Cuál es el club de fútbol con más títulos en la Serie A italiana?",
+    "answers": [
+      "Inter de Milán",
+      "Roma",
+      "AC Milan",
+      "Juventus"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 17,
+    "question": "¿Qué jugador ha ganado el Balón de Oro en más ocasiones?",
+    "answers": [
+      "Diego Maradona",
+      "Cristiano Ronaldo",
+      "Lionel Messi",
+      "Pelé"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 18,
+    "question": "¿Cuál es el equipo más exitoso en la historia de la Copa Libertadores?",
+    "answers": [
+      "Santos",
+      "River Plate",
+      "Boca Juniors",
+      "Independiente"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 19,
+    "question": "¿En qué año se jugó el primer partido internacional de fútbol?",
+    "answers": [
+      "1950",
+      "1920",
+      "1904",
+      "1872"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 20,
+    "question": "¿Qué selección ganó la Copa Africana de Naciones 2021?",
+    "answers": [
+      "Egipto",
+      "Nigeria",
+      "Senegal",
+      "Argelia"
+    ],
+    "correctAnswer": 2
+  }
+]
