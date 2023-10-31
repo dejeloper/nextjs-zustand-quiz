@@ -1,6 +1,6 @@
 "use client";
 import Start from "./components/Start";
-import FutbolLogo from "./components/FutbolLogo";
+import FutbolLogo from "./Icons/FutbolLogo";
 import { useQuestionsStore } from "./store/questions";
 import { Game } from "./components/Game";
 
