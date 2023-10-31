@@ -7,11 +7,14 @@ import { getAllQuestions } from "../services/questions";
 interface State {
   questions: Question[];
   currentQuestion: number;
+  winner: boolean;
+  finished: boolean;
   fecthQuestions: (limit: number) => Promise<void>;
   selectAnswer: (questionId: number, answerIndex: number) => void;
   goNextQuestion: () => void;
   goPrevQuestion: () => void;
   reset: () => void;
+  win: () => void;
 }
 
 export const useQuestionsStore = create<State>()(
@@ -21,6 +24,8 @@ export const useQuestionsStore = create<State>()(
         return {
           questions: [],
           currentQuestion: 0,
+          winner: false,
+          finished: false,
 
           fecthQuestions: async (limit: number) => {
             const json = await getAllQuestions();
@@ -70,16 +75,27 @@ export const useQuestionsStore = create<State>()(
               {
                 questions: [],
                 currentQuestion: 0,
+                winner: false,
+                finished: false,
               },
               false,
               "Reset"
             );
           },
+
+          win: () => {
+            const { questions } = get();
+            const correctAnswers = questions.filter((q) => q.isCorrect);
+            const minCorrectAnswers = questions.length / 2 + 1;
+            const winner = correctAnswers.length >= minCorrectAnswers;
+            const finished = true;
+
+            set({ winner, finished }, false, "Winner");
+          },
         };
       },
       {
         name: "questions",
-        getStorage: () => localStorage,
       }
     )
   )
