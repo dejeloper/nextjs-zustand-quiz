@@ -2,7 +2,6 @@ import { ArrowNext } from "../Icons/ArrowNext";
 import { ArrowPrevious } from "../Icons/ArrowPrevious";
 import { useQuestionsStore } from "../store/questions";
 import { Question, type Question as QuestionType } from "../types/type";
-import { Footer } from "./Footer";
 
 const getBackgroundColor = (info: Question, index: number) => {
   const { userSelectedAnswer, correctAnswer } = info;
@@ -91,8 +90,6 @@ export const Game = () => {
       </div>
 
       <Question info={questionInfo} />
-
-      <Footer />
     </>
   );
 };
