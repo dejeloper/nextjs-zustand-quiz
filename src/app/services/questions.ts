@@ -1,5 +1,6 @@
 export const getAllQuestions = async () => {
-  const res = await fetch("http://localhost:3000/data/questions.json");
+  const QUESTIONS = process.env.NEXT_PUBLIC_HOST_QUESTIONS;
+  const res = await fetch(`${QUESTIONS}/data/questions.json`);
   const json = await res.json();
 
   return json;
