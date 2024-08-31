@@ -218,5 +218,884 @@
       "Argelia"
     ],
     "correctAnswer": 2
+  },
+  {
+    "id": 21,
+    "question": "¿Qué selección ganó la primera Copa del Mundo en 1930?",
+    "answers": [
+      "Argentina",
+      "Brasil",
+      "Uruguay",
+      "Italia"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 22,
+    "question": "¿Quién es el jugador más joven en ganar un Balón de Oro?",
+    "answers": [
+      "Lionel Messi",
+      "Pelé",
+      "George Best",
+      "Cristiano Ronaldo"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 23,
+    "question": "¿Cuál es el equipo que más veces ha ganado la Copa del Rey en España?",
+    "answers": [
+      "FC Barcelona",
+      "Real Madrid",
+      "Atlético de Madrid",
+      "Valencia"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 24,
+    "question": "¿Quién es el máximo goleador de la historia de la Liga de Campeones de la UEFA?",
+    "answers": [
+      "Cristiano Ronaldo",
+      "Lionel Messi",
+      "Raúl González",
+      "Robert Lewandowski"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 25,
+    "question": "¿Qué país ha ganado más Copas del Mundo?",
+    "answers": [
+      "Alemania",
+      "Argentina",
+      "Brasil",
+      "Italia"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 26,
+    "question": "¿Qué selección ganó la Copa América 2021?",
+    "answers": [
+      "Brasil",
+      "Argentina",
+      "Chile",
+      "Uruguay"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 27,
+    "question": "¿Cuál es el máximo goleador de la historia de la Liga Española?",
+    "answers": [
+      "Raúl González",
+      "Lionel Messi",
+      "Cristiano Ronaldo",
+      "Telmo Zarra"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 28,
+    "question": "¿Qué selección ganó la Copa Mundial Femenina de la FIFA en 2019?",
+    "answers": [
+      "Alemania",
+      "Estados Unidos",
+      "Suecia",
+      "Francia"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 29,
+    "question": "¿Cuál es el equipo con más títulos en la Bundesliga alemana?",
+    "answers": [
+      "Borussia Dortmund",
+      "Hamburgo SV",
+      "Bayern Múnich",
+      "Borussia Mönchengladbach"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 30,
+    "question": "¿Quién es el jugador con más apariciones en la historia de la Premier League?",
+    "answers": [
+      "Ryan Giggs",
+      "Frank Lampard",
+      "Steven Gerrard",
+      "Gareth Barry"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 31,
+    "question": "¿Qué club ganó la primera edición de la Liga de Campeones de la UEFA?",
+    "answers": [
+      "Real Madrid",
+      "AC Milan",
+      "Benfica",
+      "Ajax"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 32,
+    "question": "¿Quién es el máximo goleador histórico de la selección brasileña?",
+    "answers": [
+      "Pelé",
+      "Ronaldo",
+      "Neymar",
+      "Romário"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 33,
+    "question": "¿Cuál es el único equipo que ha ganado la Liga de Campeones de la UEFA tres veces consecutivas?",
+    "answers": [
+      "Barcelona",
+      "Real Madrid",
+      "Bayern Múnich",
+      "Ajax"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 34,
+    "question": "¿Quién es el entrenador con más títulos de la Premier League?",
+    "answers": [
+      "Pep Guardiola",
+      "José Mourinho",
+      "Arsène Wenger",
+      "Alex Ferguson"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 35,
+    "question": "¿Cuál es el club con más títulos de liga en Italia?",
+    "answers": [
+      "AC Milan",
+      "Juventus",
+      "Inter de Milán",
+      "Napoli"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 36,
+    "question": "¿Qué jugador tiene el récord de más goles en una sola temporada de la Premier League?",
+    "answers": [
+      "Thierry Henry",
+      "Mohamed Salah",
+      "Alan Shearer",
+      "Harry Kane"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 37,
+    "question": "¿En qué año se jugó la primera Copa Mundial Femenina de la FIFA?",
+    "answers": [
+      "1991",
+      "1995",
+      "1987",
+      "1999"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 38,
+    "question": "¿Qué equipo ganó la primera edición de la Premier League en 1992-93?",
+    "answers": [
+      "Manchester United",
+      "Blackburn Rovers",
+      "Arsenal",
+      "Leeds United"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 39,
+    "question": "¿Cuál es el equipo con más títulos de la Copa Libertadores?",
+    "answers": [
+      "Boca Juniors",
+      "River Plate",
+      "Independiente",
+      "Peñarol"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 40,
+    "question": "¿Quién fue el primer futbolista en ganar tres Copas del Mundo?",
+    "answers": [
+      "Pelé",
+      "Diego Maradona",
+      "Zinedine Zidane",
+      "Franz Beckenbauer"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 41,
+    "question": "¿Cuál es el país con más subcampeonatos en la historia de la Copa del Mundo?",
+    "answers": [
+      "Argentina",
+      "Brasil",
+      "Alemania",
+      "Italia"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 42,
+    "question": "¿Qué equipo ganó la primera edición de la Copa América en 1916?",
+    "answers": [
+      "Brasil",
+      "Argentina",
+      "Uruguay",
+      "Chile"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 43,
+    "question": "¿Cuál es el único país que ha participado en todas las Copas del Mundo?",
+    "answers": [
+      "Alemania",
+      "Brasil",
+      "Italia",
+      "Argentina"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 44,
+    "question": "¿Quién es el jugador con más títulos de la Liga de Campeones de la UEFA?",
+    "answers": [
+      "Lionel Messi",
+      "Cristiano Ronaldo",
+      "Paolo Maldini",
+      "Francisco Gento"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 45,
+    "question": "¿Qué selección ganó más Eurocopas?",
+    "answers": [
+      "Francia",
+      "Alemania",
+      "España",
+      "Unión Soviética"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 46,
+    "question": "¿Cuál es el club de fútbol más exitoso en la historia del fútbol sudamericano?",
+    "answers": [
+      "Boca Juniors",
+      "River Plate",
+      "Santos",
+      "Independiente"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 47,
+    "question": "¿Qué club ha ganado más títulos de la Copa Intercontinental?",
+    "answers": [
+      "AC Milan",
+      "Real Madrid",
+      "Peñarol",
+      "Independiente"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 48,
+    "question": "¿Quién es el jugador con más títulos de la Premier League?",
+    "answers": [
+      "Paul Scholes",
+      "Ryan Giggs",
+      "Frank Lampard",
+      "Steven Gerrard"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 49,
+    "question": "¿Cuál es el único equipo inglés que ha ganado la Liga de Campeones de la UEFA invicto?",
+    "answers": [
+      "Manchester United",
+      "Nottingham Forest",
+      "Chelsea",
+      "Liverpool"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 50,
+    "question": "¿Qué selección ha ganado más títulos de la Copa Oro de la Concacaf?",
+    "answers": [
+      "México",
+      "Estados Unidos",
+      "Costa Rica",
+      "Honduras"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 51,
+    "question": "¿Cuál es el primer equipo en ganar la Copa del Mundo Femenina de la FIFA en 1991?",
+    "answers": [
+      "Estados Unidos",
+      "Alemania",
+      "Noruega",
+      "Suecia"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 52,
+    "question": "¿Qué selección ganó la Copa América en 2019?",
+    "answers": [
+      "Brasil",
+      "Argentina",
+      "Chile",
+      "Uruguay"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 53,
+    "question": "¿Cuál es el único equipo de fútbol que ha ganado la Copa Mundial de Clubes de la FIFA en dos ocasiones consecutivas?",
+    "answers": [
+      "Real Madrid",
+      "Barcelona",
+      "Milan",
+      "Manchester United"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 54,
+    "question": "¿Qué jugador ha sido el máximo goleador en la historia de la Copa del Mundo en una sola edición?",
+    "answers": [
+      "Pele",
+      "Gerd Müller",
+      "Just Fontaine",
+      "Cristiano Ronaldo"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 55,
+    "question": "¿Cuál es el equipo con más títulos de la Copa de África de Naciones?",
+    "answers": [
+      "Nigeria",
+      "Argelia",
+      "Egipto",
+      "Ghana"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 56,
+    "question": "¿Qué selección ganó la Eurocopa 1984?",
+    "answers": [
+      "Francia",
+      "España",
+      "Alemania",
+      "Portugal"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 57,
+    "question": "¿Qué equipo ha ganado más títulos de la Bundesliga en Alemania?",
+    "answers": [
+      "Bayern Múnich",
+      "Borussia Dortmund",
+      "Hamburgo SV",
+      "Bayer Leverkusen"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 58,
+    "question": "¿Quién es el máximo goleador en la historia de la Champions League de la UEFA?",
+    "answers": [
+      "Lionel Messi",
+      "Cristiano Ronaldo",
+      "Raúl González",
+      "Robert Lewandowski"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 59,
+    "question": "¿Cuál es el club que más veces ha ganado la Copa del Rey en España?",
+    "answers": [
+      "Real Madrid",
+      "FC Barcelona",
+      "Atlético de Madrid",
+      "Athletic Club"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 60,
+    "question": "¿Qué selección ha ganado más títulos de la Copa del Mundo Femenina?",
+    "answers": [
+      "Alemania",
+      "Estados Unidos",
+      "Suecia",
+      "Noruega"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 61,
+    "question": "¿En qué año se jugó la primera edición de la Copa Mundial de Clubes de la FIFA?",
+    "answers": [
+      "2000",
+      "2005",
+      "2010",
+      "2008"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 62,
+    "question": "¿Cuál es el máximo goleador en la historia de la Copa Libertadores?",
+    "answers": [
+      "Carlos Tevez",
+      "Ariel Ortega",
+      "Daniel Passarella",
+      "Ángel Labruna"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 63,
+    "question": "¿Qué equipo ganó la Copa Libertadores en 2018?",
+    "answers": [
+      "Boca Juniors",
+      "River Plate",
+      "Independiente",
+      "Peñarol"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 64,
+    "question": "¿Quién fue el primer futbolista en ganar el Balón de Oro?",
+    "answers": [
+      "Johan Cruyff",
+      "Stanley Matthews",
+      "Pelé",
+      "George Best"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 65,
+    "question": "¿Cuál es el país con más títulos en la Copa de Naciones de la CONCACAF?",
+    "answers": [
+      "México",
+      "Estados Unidos",
+      "Costa Rica",
+      "Honduras"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 66,
+    "question": "¿Cuál es el club más antiguo de Inglaterra?",
+    "answers": [
+      "Notts County",
+      "Sheffield United",
+      "Aston Villa",
+      "Manchester United"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 67,
+    "question": "¿Quién es el máximo goleador en la historia de la selección argentina?",
+    "answers": [
+      "Lionel Messi",
+      "Gabriel Batistuta",
+      "Diego Maradona",
+      "Sergio Agüero"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 68,
+    "question": "¿Qué selección ganó la Eurocopa 2012?",
+    "answers": [
+      "España",
+      "Italia",
+      "Alemania",
+      "Francia"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 69,
+    "question": "¿Qué equipo tiene el récord de más títulos en la Ligue 1 francesa?",
+    "answers": [
+      "Paris Saint-Germain",
+      "Olympique de Marseille",
+      "AS Monaco",
+      "Olympique Lyonnais"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 70,
+    "question": "¿Cuál es el estadio de fútbol más grande de Europa?",
+    "answers": [
+      "Camp Nou",
+      "Wembley",
+      "Old Trafford",
+      "San Siro"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 71,
+    "question": "¿Qué selección ha ganado más títulos de la Copa América?",
+    "answers": [
+      "Brasil",
+      "Argentina",
+      "Chile",
+      "Uruguay"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 72,
+    "question": "¿Quién es el máximo goleador en la historia de la selección portuguesa?",
+    "answers": [
+      "Cristiano Ronaldo",
+      "Eusébio",
+      "Luis Figo",
+      "Paulo Futre"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 73,
+    "question": "¿Qué club tiene el récord de más títulos en la Eredivisie holandesa?",
+    "answers": [
+      "Ajax",
+      "PSV Eindhoven",
+      "Feyenoord",
+      "AZ Alkmaar"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 74,
+    "question": "¿Cuál es el club con más títulos en la Primeira Liga portuguesa?",
+    "answers": [
+      "Benfica",
+      "Porto",
+      "Sporting CP",
+      "Boavista"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 75,
+    "question": "¿Qué selección ganó la Copa de África de Naciones en 2017?",
+    "answers": [
+      "Egipto",
+      "Argelia",
+      "Camerún",
+      "Nigeria"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 76,
+    "question": "¿Cuál es el jugador con más títulos de la Copa Libertadores?",
+    "answers": [
+      "Francisco Valdés",
+      "Ángel Labruna",
+      "Daniel Passarella",
+      "Carlos Bianchi"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 77,
+    "question": "¿Qué selección ganó la Copa del Mundo de 2006?",
+    "answers": [
+      "Italia",
+      "Alemania",
+      "Francia",
+      "Brasil"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 78,
+    "question": "¿Cuál es el equipo con más títulos en la Copa Sudamericana?",
+    "answers": [
+      "Independiente",
+      "Boca Juniors",
+      "River Plate",
+      "San Lorenzo"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 79,
+    "question": "¿En qué país se celebró la Eurocopa 2016?",
+    "answers": [
+      "Francia",
+      "Alemania",
+      "España",
+      "Portugal"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 80,
+    "question": "¿Qué equipo ganó la primera edición de la Copa Intercontinental en 1960?",
+    "answers": [
+      "Real Madrid",
+      "Santos",
+      "Peñarol",
+      "Independiente"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 81,
+    "question": "¿Cuál es el único país que ha ganado la Copa del Mundo Femenina en sus dos primeras ediciones?",
+    "answers": [
+      "Estados Unidos",
+      "Alemania",
+      "Noruega",
+      "Suecia"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 82,
+    "question": "¿Qué selección ganó la Copa América en 2015?",
+    "answers": [
+      "Chile",
+      "Argentina",
+      "Uruguay",
+      "Colombia"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 83,
+    "question": "¿Cuál es el club con más títulos en la Copa del Rey de España?",
+    "answers": [
+      "Real Madrid",
+      "FC Barcelona",
+      "Athletic Club",
+      "Atlético de Madrid"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 84,
+    "question": "¿Quién es el máximo goleador de la historia de la Copa del Mundo Femenina?",
+    "answers": [
+      "Marta",
+      "Abby Wambach",
+      "Birgit Prinz",
+      "Pia Sundhage"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 85,
+    "question": "¿Qué selección ganó la Copa del Mundo de 1998?",
+    "answers": [
+      "Francia",
+      "Brasil",
+      "Alemania",
+      "Argentina"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 86,
+    "question": "¿Cuál es el equipo más exitoso en la historia de la Copa Libertadores?",
+    "answers": [
+      "River Plate",
+      "Boca Juniors",
+      "Independiente",
+      "Peñarol"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 87,
+    "question": "¿Qué selección ganó la Eurocopa 2004?",
+    "answers": [
+      "Grecia",
+      "Portugal",
+      "España",
+      "Francia"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 88,
+    "question": "¿Cuál es el equipo con más títulos en la Copa Sudamericana?",
+    "answers": [
+      "Independiente",
+      "Boca Juniors",
+      "River Plate",
+      "San Lorenzo"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 89,
+    "question": "¿En qué año se celebró la primera Copa del Mundo de la FIFA?",
+    "answers": [
+      "1930",
+      "1934",
+      "1938",
+      "1950"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 90,
+    "question": "¿Cuál es el club con más títulos en la historia de la Copa Libertadores?",
+    "answers": [
+      "River Plate",
+      "Boca Juniors",
+      "Independiente",
+      "Peñarol"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 91,
+    "question": "¿Qué selección ganó la Copa del Mundo de 1978?",
+    "answers": [
+      "Argentina",
+      "Brasil",
+      "Alemania",
+      "Países Bajos"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 92,
+    "question": "¿Cuál es el máximo goleador en la historia de la Copa del Mundo?",
+    "answers": [
+      "Miroslav Klose",
+      "Cristiano Ronaldo",
+      "Pele",
+      "Gerd Müller"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 93,
+    "question": "¿Qué selección ganó la Copa América en 2021?",
+    "answers": [
+      "Argentina",
+      "Brasil",
+      "Chile",
+      "Colombia"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 94,
+    "question": "¿Cuál es el estadio de fútbol más grande del mundo?",
+    "answers": [
+      "Rungrado 1 de Mayo",
+      "Camp Nou",
+      "Wembley",
+      "Maracaná"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 95,
+    "question": "¿Cuál es el equipo más exitoso en la historia de la Copa del Mundo de Clubes de la FIFA?",
+    "answers": [
+      "Real Madrid",
+      "Barcelona",
+      "Milan",
+      "Bayern Múnich"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 96,
+    "question": "¿Qué selección ganó la Copa América en 2007?",
+    "answers": [
+      "Brasil",
+      "Argentina",
+      "Chile",
+      "Perú"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 97,
+    "question": "¿Cuál es el equipo con más títulos en la historia de la FA Cup inglesa?",
+    "answers": [
+      "Arsenal",
+      "Manchester United",
+      "Liverpool",
+      "Chelsea"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 98,
+    "question": "¿Qué selección ganó la Copa del Mundo de 2014?",
+    "answers": [
+      "Alemania",
+      "Argentina",
+      "Brasil",
+      "Países Bajos"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 99,
+    "question": "¿Cuál es el club con más títulos en la historia de la Serie A italiana?",
+    "answers": [
+      "Juventus",
+      "AC Milan",
+      "Inter de Milán",
+      "Roma"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 100,
+    "question": "¿Qué selección ha ganado más títulos de la Copa de África de Naciones?",
+    "answers": [
+      "Egipto",
+      "Nigeria",
+      "Ghana",
+      "Argelia"
+    ],
+    "correctAnswer": 0
   }
-]
